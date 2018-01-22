@@ -69,6 +69,7 @@ interface iweather {
 ### retrofit
 
 > android/java용으로 개발된 오픈 소스 Request 라이브러리
+
 > Restful api에 맞는 요청을 할 때 사용이 됨.
 
 - 특징 
@@ -81,7 +82,7 @@ interface iweather {
 6. Retrofit은 HTTP API를 자바 인터페이스 형태로 사용가능 - 안드로이드에서 사용가능.
 
 
-※ TODO- library 관련 repo 따로 만들어서 정리할 예정 [retrofit]()
+※ TODO- library 관련 repo 따로 만들어서 정리할 예정 [retrofit2]()
 
 #### REST란?
 

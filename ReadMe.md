@@ -80,7 +80,8 @@ interface iweather {
 5. 콜백은 메인 쓰레드에서 돌고 통신부는 알아서 쓰레드에서 돌아서 별도의 asyncTask나 쓰레드를 만들필요가 없음. 코드 어디서든 호출 가능
 6. Retrofit은 HTTP API를 자바 인터페이스 형태로 사용가능 - 안드로이드에서 사용가능.
 
-※ 추후 Retrofit library 따로 정리하는 해서 업데이트 예정 [retrofit]()
+
+※ TODO- library 관련 repo 따로 만들어서 정리할 예정 [retrofit]()
 
 #### REST란?
 
